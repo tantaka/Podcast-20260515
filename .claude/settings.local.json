@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:ai.google.dev)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "PowerShell(Get-ChildItem -Path \"C:\\\\Users\\\\annaka\\\\Documents\\\\Podcast-20260515\" -Recurse | Where-Object { !$_.PSIsContainer } | Select-Object FullName | Sort-Object FullName)"
+    ]
+  }
+}
