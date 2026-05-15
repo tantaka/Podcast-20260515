@@ -1,3 +1,10 @@
 {
-  "episodes": []
+  "episodes": [
+    {
+      "version": "v2.1.141",
+      "date": "2026-05-14",
+      "drive_url": "https://drive.google.com/file/d/1Zm6SfPzHBfmXIfPnCjnov-DO2s0-mD70/view?usp=drivesdk",
+      "title": "Claude Code v2.1.141 変更点解説"
+    }
+  ]
 }
