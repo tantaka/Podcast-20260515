@@ -4,6 +4,9 @@ __pycache__/
 *.pyo
 .env
 
+# Claude Code ローカル設定
+.claude/
+
 # 生成された音声（大容量のため除外。JSONは残す）
 output/audio/**/*.wav
 output/audio/**/*.mp3
